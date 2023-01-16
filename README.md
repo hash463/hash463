@@ -3,7 +3,7 @@
 
 - 🎓 Currently Pursuing B.Tech at **Bannari Amman Institute of Technology**
 
-- 🌱 I’m currently learning **DSA, Java FullStack development**
+- 🌱 I’m currently learning **DSA, Machine Learning**
 
 - 💬 Ask me about **C, CPP**
 
