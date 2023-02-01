@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harish Jayaprakash,</h1>
 <h3 align="center">Information Technology student</h3>
 
-- 🎓 Currently Pursuing B.Tech at **Bannari Amman Institute of Technology**
+- 🎓 Currently Pursuing B.Tech Information Technology at **Bannari Amman Institute of Technology**
 
-- 🌱 I’m currently learning **DSA, Machine Learning**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **C, CPP**
 
